@@ -1,0 +1,8 @@
+opencv.zip
+opencv-*
+build
+.vscode
+hello_world/CMakeFiles
+hello_world/CMakeFiles
+hello_world/result.jpg
+hello_world/hello_world
